@@ -1,0 +1,26 @@
+In-Class Assignments
+------------
+
+Creator: 
+Warren Longmire
+
+Tools: 
+Html/css/js
+
+Assignment:
+1. Create a js file and link to it.
+
+2. Write a script directly into your html that does the following:
+	- Alerts "Hello World" to the user.
+	- Alerts the sum of 3 numbers to the user.
+	- Print "This is console output from an internal script." to the console.
+
+3. Write an external script that alerts "It is great to meet you.
+	- Alerts "Goodnight Space." to the user.
+	- Alerts the product of 3 numbers to the user.
+	- Print "This is console output from an internal script." to the console
+	- Changes the value of the <h1 id="name"> element to your name. Use toUpperCase() to render the name in uppercase.
+	- Changes the value of the <p id="desc"> element to a paragragh element to the text of your choice.
+	- Changes the value of the <span id="length"> element to a the total length of the desc paragraph.
+
+4. Switch the order of each to note the difference in execution.
